@@ -2,7 +2,7 @@
 
 [Teach Yourself Computer Science](https://teachyourselfcs.com/) (TYCS)
 
-[P1xt Guides: Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides)
+[P1xt Guides: Computer Science and Programming - Version 4.0](https://github.com/P1xt/p1xt-guides) (P1xt)
 
 [Open Source Society University](https://github.com/ossu/computer-science) (OSSU)
 
@@ -11,8 +11,6 @@
 ## Tier 1
 
 ### Programming
-
-_Number of Classes currently enrolled in : 4_
 
 | ORDER | GUIDE       | Course                                                                                                                                      | Duration      | Start Date | Status   | Due Date | Completed |
 | ----- | ----------- | ------------------------------------------------------------------------------------------------------------------------------------------- | ------------- | ---------- | -------- | -------- | --------- |
