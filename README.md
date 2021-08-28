@@ -20,33 +20,33 @@ _Number of Classes currently enrolled in : 4_
 | 1 B   | OSSU        | [How to Code - Simple Data](https://www.edx.org/course/how-to-code-simple-data)                                                             | 7 weeks       | May 21     | Complete | July 9   | June 25   |
 | 2 A   | OSSU / P1xt | [Intro to Computer Science and Programming using Python MIT](https://www.edx.org/course/introduction-to-computer-science-and-programming-7) | 9 weeks       | June 3     | Complete | Aug 5    | July 23   |
 | 3 A   | OSSU        | [How to Code - Complex Data](https://www.edx.org/course/how-to-code-complex-data)                                                           | 6 weeks       | July 9     | Complete | Aug 20   | Aug 13    |
-| 4 A   | P1xt        | [Web Programming with Python and JavaScript CS50 pt2](https://cs50.harvard.edu/web/2020/)                                                   | 12 weeks      | Aug 20     | Enrolled | Nov 12   |           |
+| 4 A   | P1xt        | [Web Programming with Python and JavaScript CS50 pt2](https://cs50.harvard.edu/web/2020/)                                                   | 12 weeks      |     |      |          |          |           |
 | 4 B   | OSSU        | [Build a Modern Computer Pt 1](https://www.coursera.org/learn/build-a-computer)                                                             | 6 weeks       | Aug 24     | Complete | Oct 8    | Oct 3     |
 | 5 A   | OSSU        | [Software Construction - Data Abstraction](https://www.edx.org/course/software-construction-data-abstraction)                               | 6 weeks       | Aug 27     | Complete | Oct 8    | Oct 3.    |
-| 6 A   | OSSU        | [Build a modern Computer Pt 2](https://www.coursera.org/learn/nand2tetris2/)                                                                | 6 weeks       | Oct 8      | Enrolled | Nov 19   |           |
-| 6 B   | OSSU        | [Software Construction - Object Oriented Design](https://www.edx.org/course/software-construction-object-oriented-design)                   | 6 weeks       | Oct 22     |          | Dec 3    |
-| 7 A   | P1xt        | Mobile App Development with React Native CS50 Pt 3                                                                                          | 12 weeks      | Nov 19     |          | Feb 11   |           |
-| 7 B   | OSSU        | Introduction to Computer Networking                                                                                                         | 8 weeks       | Nov 26     |          | Jan 21   |           |
-| 8     | OSSU        | Programming Languages Part A                                                                                                                | 5 weeks       | Dec 3      |          | Jan 7    |           |
-| 9 B   | OSSU        | Programming Languages Part B                                                                                                                | 3 weeks       | Jan 14     |          | Feb 4    |           |
-| 10 A  | OSSU        | Programming Languages Part C                                                                                                                | 3 weeks       | Feb 11     |          | March 4  |           |
-| 10 B  | P1xt        | Intro to Algorithms - Udacity (Tier 2 p1xt)                                                                                                 | 12 weeks      | Feb 18     |          | May 13   |           |
-| 10 C  | P1xt        | Algorithms (Khan Academy)                                                                                                                   | 12 weeks      | Feb 18     |          | May 13   |           |
-| 12 A  | P1xt        | Intro to Algorithms - MIT (Tier 2 p1xt)                                                                                                     | 12 weeks      | May 13     |          | Aug 5    |           |
-| 12 B  | OSSU        | Divide and Conquer Algorithms                                                                                                               | 4 weeks       | May 20     |          | June 17  |           |
-| 12 C  | OSSU        | Information Security                                                                                                                        | 5 weeks       | May 20     |          | June 24  |           |
-| 13 A  | OSSU        | Graph Search, Data Structures                                                                                                               | 4 weeks       | June 17    |          | July 15  |           |
-| 13 B  | OSSU        | Principles of Secure Coding                                                                                                                 | 4 weeks       | June 24    |          | July 22  |           |
-| 14 A  | OSSU        | Greedy Algoirthms, dynamic Programming                                                                                                      | 4 weeks       | July 15    |          | Aug 12   |           |
-| 14 B  | OSSU        | Identifying Security Vulnerabilities                                                                                                        | 4 weeks       | July 22    |          | Aug 19   |           |
-| 15 A  | OSSU / TYCS | Operating Systems: Three Easy Pieces                                                                                                        | 10 - 12 weeks | Aug 5      |          | Oct 21   |           |
-| 15 B  | OSSU        | Shortest Paths Revisited                                                                                                                    | 4 weeks       | Aug 12     |          | Sept 9   |           |
-| 15 C  | OSSU        | Security : Java or C/C++                                                                                                                    | 4 weeks       | Aug 19     |          | Oct 16   |           |
-| 16 B  | OSSU        | Computer Graphics                                                                                                                           | 6 weeks       | Sept 9     |          | Oct 21   |           |
-| 16 A  | OSSU        | Relational Databse Systems                                                                                                                  | 6 weeks       | Sept 16    |          | Oct 28   |           |
-| 17    | OSSU        | Machine Learning                                                                                                                            | 11 weeks      | Oct 21     |          | Jan 6    |           |
-| 19 A  | OSSU        | Software Engineering: Intro                                                                                                                 | 6 weeks       | Dec 2      |          | Jan 13   |           |
-| 20 A  | OSSU        | Software Development Capstone                                                                                                               | 6 - 7 weeks   | Jan 13     |          | Feb 24   |           |
+| 6 A   | OSSU        | [Build a modern Computer Pt 2](https://www.coursera.org/learn/nand2tetris2/)                                                                | 6 weeks       |     |          |  |           |
+| 6 B   | OSSU        | [Software Construction - Object Oriented Design](https://www.edx.org/course/software-construction-object-oriented-design)                   | 6 weeks       |     |          |  |           |
+| 7 A   | P1xt        | Mobile App Development with React Native CS50 Pt 3                                                                                          | 12 weeks      |     |          |  |           |
+| 7 B   | OSSU        | Introduction to Computer Networking                                                                                                         | 8 weeks       |     |          |  |           |
+| 8     | OSSU        | Programming Languages Part A                                                                                                                | 5 weeks       |     |          |  |           |
+| 9 B   | OSSU        | Programming Languages Part B                                                                                                                | 3 weeks       |     |          |  |           |
+| 10 A  | OSSU        | Programming Languages Part C                                                                                                                | 3 weeks       |     |          |  |           |
+| 10 B  | P1xt        | Intro to Algorithms - Udacity (Tier 2 p1xt)                                                                                                 | 12 weeks      |     |          |  |           |
+| 10 C  | P1xt        | Algorithms (Khan Academy)                                                                                                                   | 12 weeks      |     |          |  |           |
+| 12 A  | P1xt        | Intro to Algorithms - MIT (Tier 2 p1xt)                                                                                                     | 12 weeks      |     |          |  |           |
+| 12 B  | OSSU        | Divide and Conquer Algorithms                                                                                                               | 4 weeks       |     |          |  |           |
+| 12 C  | OSSU        | Information Security                                                                                                                        | 5 weeks       |     |          |  |           |
+| 13 A  | OSSU        | Graph Search, Data Structures                                                                                                               | 4 weeks       |     |          |  |           |
+| 13 B  | OSSU        | Principles of Secure Coding                                                                                                                 | 4 weeks       |     |          |  |           |
+| 14 A  | OSSU        | Greedy Algoirthms, dynamic Programming                                                                                                      | 4 weeks       |     |          |  |           |
+| 14 B  | OSSU        | Identifying Security Vulnerabilities                                                                                                        | 4 weeks       |     |          |  |           |
+| 15 A  | OSSU / TYCS | Operating Systems: Three Easy Pieces                                                                                                        | 10 - 12 weeks |     |          |  |           |
+| 15 B  | OSSU        | Shortest Paths Revisited                                                                                                                    | 4 weeks       |     |          |  |           |
+| 15 C  | OSSU        | Security : Java or C/C++                                                                                                                    | 4 weeks       |     |          |  |           |
+| 16 B  | OSSU        | Computer Graphics                                                                                                                           | 6 weeks       |     |          |  |           |
+| 16 A  | OSSU        | Relational Databse Systems                                                                                                                  | 6 weeks       |     |          |  |           |
+| 17    | OSSU        | Machine Learning                                                                                                                            | 11 weeks      |     |          |  |           |
+| 19 A  | OSSU        | Software Engineering: Intro                                                                                                                 | 6 weeks       |     |          |  |           |
+| 20 A  | OSSU        | Software Development Capstone                                                                                                               | 6 - 7 weeks   |     |          |  |           |
 
 ### Math
 
@@ -56,14 +56,14 @@ _Number of Classes currently enrolled in : 4_
 | 1 D   | OSSU / P1xt        | How to Learn Math: For Students  | 6 weeks  | May 21     | Complete | July 2   | June 25   |
 | 2 B   | OSSU               | Precalc                          | 5 weeks  | June 3     | Complete | July 9   | June 30   |
 | 2 C   | P1xt               | Precalc (khan)                   | 5 weeks  | June 3     | Complete | July 9   | July 4    |
-| 3 B   | P1xt               | Calc 1 (khan)                    | 12 weeks | July 9     | Enrolled | Oct 1    |           |
-| 3 C   | OSSU               | Calc 1 A                         | 13 weeks | July 9     | Enrolled | Oct 8    |           |
-| 5 B   | P1xt               | Calc 2 (khan)                    | 9 weeks  | Oct 1      |          | Dec 3    |           |
-| 6 B   | OSSU               | Calc 1 B                         | 13 weeks | Oct 8      |          | Jan 7    |           |
-| 9 A   | OSSU               | Calc 1 C                         | 6 weeks  | Jan 7      |          | Feb 18   |           |
-| 10 D  | OSSU               | Essence of Linear Algebra        | 2 weeks  | Feb 18     |          | March 4  |           |
-| 10 E  | OSSU / P1xt / TYCS | Mathematics for Computer Science | 13 weeks | Feb 18     |          | May 20   |           |
-| 11    | OSSU / P1xt        | Linear Algebra                   | 14 weeks | March 4    |          | June 10  |           |
+| 3 B   | P1xt               | Calc 1 (khan)                    | 12 weeks |            |          |  |           |
+| 3 C   | OSSU               | Calc 1 A                         | 13 weeks |            |          |  |           |
+| 5 B   | P1xt               | Calc 2 (khan)                    | 9 weeks  |            |          |  |           |
+| 6 B   | OSSU               | Calc 1 B                         | 13 weeks |            |          |  |           |
+| 9 A   | OSSU               | Calc 1 C                         | 6 weeks  |            |          |  |           |
+| 10 D  | OSSU               | Essence of Linear Algebra        | 2 weeks  |            |          |  |           |
+| 10 E  | OSSU / P1xt / TYCS | Mathematics for Computer Science | 13 weeks |            |          |  |           |
+| 11    | OSSU / P1xt        | Linear Algebra                   | 14 weeks |            |          |  |           |
 
 ### Readings
 
@@ -128,13 +128,13 @@ _Number of Classes currently enrolled in : 4_
 
 | ORDER | GUIDE       | Course                                           | Duration | Start Date | Status | Due Date |
 | ----- | ----------- | ------------------------------------------------ | -------- | ---------- | ------ | -------- |
-| 18 A  | OSSU        | Introduction to Parallel Programming             | 12 weeks | Nov 4      |        | Jan 27   |
-| 18 B  | OSSU / P1xt | Software Debugging                               | 8 weeks  | Nov 4      |        | Dec 30   |
-| 19 B  | OSSU / P1xt | Softwre Testing                                  | 4 weeks  | Dec 30     |        | Jan 27   |
-| 19 C  | OSSU        | LAFF - On Programming for Correctness            | 7 weeks  | Dec 30     |        | Feb 17   |
-| 20 B  | P1xt        | Software Construction                            | 12 weeks | Jan 27     |        | April 21 |
-| 20 C  | P1xt        | Intro to Computational thinking and Data Science | 15 weeks | Jan 27     |        | May 12   |
-| 21 A  | OSSU / P1xt | Software Architecture & Design (Tier 3)          | 8 weeks  | Feb 24     |        | April 21 |
+| 18 A  | OSSU        | Introduction to Parallel Programming             | 12 weeks |      |        |    |
+| 18 B  | OSSU / P1xt | Software Debugging                               | 8 weeks  |      |        |    |
+| 19 B  | OSSU / P1xt | Softwre Testing                                  | 4 weeks  |      |        |    |
+| 19 C  | OSSU        | LAFF - On Programming for Correctness            | 7 weeks  |      |        |    |
+| 20 B  | P1xt        | Software Construction                            | 12 weeks |      |        |    |
+| 20 C  | P1xt        | Intro to Computational thinking and Data Science | 15 weeks |      |        |    |
+| 21 A  | OSSU / P1xt | Software Architecture & Design (Tier 3)          | 8 weeks  |      |        |    |
 
 ### Reading
 
